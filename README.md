@@ -167,11 +167,6 @@ Keep practicing, explore advanced Dart features, and happy coding! 🚀
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
